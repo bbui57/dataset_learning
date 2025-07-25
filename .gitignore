@@ -1,0 +1,7 @@
+data/
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.tar.gz
